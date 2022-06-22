@@ -1,0 +1,8 @@
+<h1 class="text-primary bg-secondary">La visite du parc</h1>
+<p>
+Pour compléter notre présentation du studio Ghibli et de ses figures clés, nous vous proposons une visite virtuelle du studio, avec l’adaptation française d’un article publié dans le magazine japonais Brutus, à l’occasion de la sortie japonaise d’Arrietty, le petit monde des chapardeurs, en août 2010. Celui-ci se compose d’une infographie et d’un texte décrivant le fonctionnement au quotidien du studio Ghibli. Cet article a été publié une seconde fois, un an plus tard, toujours dans le même magazine, à l’occasion d’un dossier enrichi, consécutif à la sortie de La colline aux coquelicots, en août 2011.
+
+Bien sûr, le studio Ghibli étant en perpétuelle évolution au gré de ses besoins de production, cet article ne reflète plus tout à fait la réalité (encore moins depuis son annonce de restructuration, début août 2014), mais donne néanmoins une bonne idée de ce qu’a pu être l’organisation générale interne du studio il y a encore peu de temps.
+
+Visite guidée du studio Ghibli
+Le studio Ghibli regroupe en tout 5 studios dans lesquels Hayao Miyazaki, Isao Takahata et leurs collaborateurs se déplacent en permanence. Voici comment s’agencent et s’intègrent à son environnement proche ces 5 studios, ainsi que l’aménagement intérieur du studio principal, le studio 1, réservé à l’animation, et celui du studio 2, réservé aux décors et au doublage.</p>

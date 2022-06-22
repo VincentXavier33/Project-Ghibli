@@ -1,0 +1,12 @@
+:root {
+  --color-light: #f3f3f3;
+  --color-dark: #141218;
+  --color-primary: #106644;
+  --color-secondary: #00A8E8;
+  --color-success: rgb(12, 177, 111);
+  --color-danger: rgb(197, 48, 35);
+  --color-warning: rgb(232, 174, 0);
+  --spacing: 1.5rem;
+  --border-radius: .5rem;
+  --typo: 'Ghibli Regular', 'Ghibli Bold';
+}

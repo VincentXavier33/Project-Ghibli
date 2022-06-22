@@ -1,0 +1,1 @@
+<h1 class="text-primary bg-secondary">Exposition éphémére</h1>

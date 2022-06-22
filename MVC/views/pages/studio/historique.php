@@ -1,0 +1,2 @@
+<h1 class="text-primary bg-secondary">L'historique du studio</h1>
+<p>Le studio Ghibli a été officiellement fondé pour la production du film Le château dans le ciel en 1986 par Tokuma Shoten, un célèbre éditeur japonais. En fait, le studio existait depuis longtemps dans l'esprit de deux hommes, deux visionnaires qui ont su rester fidèles à leurs principes : Hayao Miyazaki et Isao Takahata.</p>

@@ -1,0 +1,64 @@
+/* ===============*/
+/* ===Sections===*/
+/* ===============*/
+
+/* .section{
+    padding: var(--spacing) 0;
+}
+
+.section-small{
+    padding: (var(--spacing)/2) 0;
+}
+
+.section-big{
+    padding: (var(--spacing)*2) 0;
+} */
+
+.section-light{
+    background-color: var(--color-ligth);
+    color: var(--color-dark);
+}
+
+.section-dark{
+    background-color: var(--color-dark);
+    color: var(--color-ligth);
+}
+
+.section-primary{
+    background-color: var(--color-primary);
+    color: var(--color-ligth);
+}
+
+.section-secondary{
+    background-color: var(--color-secondary);
+    color: var(--color-ligth);
+}
+
+/* ===============*/
+/* ===Alert===*/
+/* ===============*/
+
+.alert{
+    padding:var calc(--spacing)/2 var(--spacing);
+    border-radius: var(--border-radius);
+}
+
+.alert-light{
+    background-color: var(--color-ligth);
+    color: var(--color-dark);
+}
+
+.alert-dark{
+    background-color: var(--color-dark);
+    color: var(--color-ligth);
+}
+
+.alert-primary{
+    background-color: var(--color-primary);
+    color: var(--color-ligth);
+}
+
+.alert-secondary{
+    background-color: var(--color-secondary);
+    color: var(--color-ligth);
+}
